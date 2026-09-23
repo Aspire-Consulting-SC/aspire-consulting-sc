@@ -69,7 +69,7 @@ a:hover {
 
 /* Desktop logo size */
 .site-logo {
-    height: 60px;
+    height: 80px;
     width: auto;
 }
 
@@ -259,7 +259,7 @@ a:hover {
 
     /* Smaller logo */
     .site-logo {
-        height: 60px;
+        height: 75px;
     }
 
     /* Tighter nav spacing */
